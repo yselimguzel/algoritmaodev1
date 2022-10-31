@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main(void)
+{
+int sonuc = 0;
+for (int sayilar = 1; sayilar < 1000; sayilar++)
+	if (sayilar % 3 == 0 || sayilar % 5 == 0)
+	    sonuc += sayilar;
+	cout << "3 veya 5 in katlarinin toplami: <" << sonuc << ">";
+	getchar();
+	return 0;
+}
