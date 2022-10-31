@@ -1,0 +1,3 @@
+tüm sıralama algoritmalarını inceledikten sonra en  hızlı sonuçlar açık ara quick sort algoritmasından gelmektedir.
+en yavaş sonuçlar ise bubble sortta gelmektedir.
+insertion sort ve selection sort ise birbirine çok yakındır ama insertion sort, selection sorta göre daha hızlı sonuç veriyor.
